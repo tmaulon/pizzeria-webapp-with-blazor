@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\xampp\htdocs\cesi\dotnet-csharp-xamarin\web-assembly\PizzeriaWebApplication\BlazingPizza.Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="_content/BlazingPizza.ComponentsLibrary" Path="D:\xampp\htdocs\cesi\dotnet-csharp-xamarin\web-assembly\PizzeriaWebApplication\BlazingPizza.ComponentsLibrary\wwwroot\" />
+</StaticWebAssets>
